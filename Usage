@@ -1,0 +1,3 @@
+gcc -S -o c c.c
+
+display code in assembly
